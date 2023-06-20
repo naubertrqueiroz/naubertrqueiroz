@@ -1,6 +1,6 @@
 # I'm Naubert Roque Queiroz 
 
-Sou analista de dados e tenho experiência em engenharia de dados.
+Sou engenheiro de dados e tenho experiência na área de dados.
 
 Minhas principais skills:
 
