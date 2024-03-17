@@ -1,6 +1,6 @@
 # I'm Naubert Roque Queiroz 
 
-Sou engenheiro de dados e tenho experiência na área de dados.
+Sou dev back-end
 
 Minhas principais skills:
 
@@ -14,7 +14,7 @@ Contato:
 <a href="https://www.linkedin.com/in/naubert-roque-queiroz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div> <a href = "naubertqueiroz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-## Eu sou Engenheiro de Dados
+## Eu sou desenvolvedor back-end
 
 ### Meu objetivo é poder ajudar a você conseguir obter os melhores insights
 
@@ -31,7 +31,7 @@ Contato:
 - Assistente de Suporte e Sistema - Schmersal - (01/2019 - 02/2023)
 - Operador Logistico - Schmersal - (07/2015 - 12/2018)
 - Aprendiz - Schmersal - (07/2013 - 07/2015)
-
+- Desenvolvedor - Epiousion (07/2023 - Atualmente)
 
 
 ## Hard Skills:
