@@ -28,10 +28,11 @@ Contato:
 
 ## Atuação Profissional 
 
+- Desenvolvedor - Epiousion (07/2023 - Atualmente)
 - Assistente de Suporte e Sistema - Schmersal - (01/2019 - 02/2023)
 - Operador Logistico - Schmersal - (07/2015 - 12/2018)
 - Aprendiz - Schmersal - (07/2013 - 07/2015)
-- Desenvolvedor - Epiousion (07/2023 - Atualmente)
+
 
 
 ## Hard Skills:
